@@ -1,0 +1,107 @@
+body{
+  background-color: #dcedc1;
+  color: #678a74;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+.left{
+  background-color: white;
+  height: 400px;
+  width: 500px;
+  margin-left: 200px;
+  margin-top: 100px;
+  padding-top: 80px;
+  padding-left: 100px;
+
+}
+.right{
+  background-color: #cbe2b0;
+  height: 480px;
+  width: 400px;
+  position: relative;
+  left: 700px;
+  bottom: 480px;
+}
+text{
+  text-align: left;
+}
+input{
+  background-color: #dcedc1;
+  border-style: none;
+  width: 60%;
+  height: 30px;
+  border-radius: 6px;
+}
+button{
+  background-color: #565d47;
+  color: white;
+  border-style: none;
+
+  height: 30px;
+  border-radius: 10px;
+}
+img{
+  width: 100%;
+  height: 700px;
+    float: right;
+    position: absolute;
+    bottom: 0px;
+}
+.description{position: relative;
+    padding-top: 150px;
+    padding-left: 40px;
+}
+h2{
+  color: white;
+}
+
+/* html,
+body {
+  height: 100%;
+}
+
+body {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f5f5f5;
+}
+.image{
+  height:80px;
+  weight:80px;
+}
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.top{
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.bottom {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.middle{
+  border-radius: 0;
+  margin-bottom: -1px;
+} */
