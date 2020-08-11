@@ -1,4 +1,3 @@
-# Signup-to-gardening-tips
 
-# npm i <all dependencies in app.js>
-# Use mailchimp API and get your CLLIENT_ID & API_KEY
+- npm i <all dependencies in app.js>
+- Use mailchimp API and get your CLLIENT_ID & API_KEY
